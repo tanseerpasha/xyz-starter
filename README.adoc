@@ -1,3 +1,4 @@
 = XYZ Reader Starter Code
 
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+Transformed the user experience of a news reading app using Material Design principles. Unique things includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces. Implementing Floating Action Button(FAB), FAB would hide on up scroll and FAB would show on down scroll. Collapsing and Expanding Toolbar, parallax scrolling(2 views scrolling together), Recycler view with StaggeredGridLayoutManager, Pager view, Sharing via ShareCompat.
